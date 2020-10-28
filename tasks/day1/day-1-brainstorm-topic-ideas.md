@@ -5,7 +5,8 @@
 + Pick a topic you already have expertise in
 + Keep your scope small - this'll help you to release and iterate fast
 + Find your reason Why - write this down! e.g. quit your 9-5 job? find more opportunities? help people?
-+ Some Sample questions to ask yourself:
+
+## Some Sample questions to ask yourself:
 
 + What are the challenges your audience may have?
 + What really inspires you?
